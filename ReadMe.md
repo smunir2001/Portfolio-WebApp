@@ -8,6 +8,8 @@
 * Python programmer
 
 ### This is my first personal portfolio WebApp. You can read *about me* and view my recent *projects*. Also feel free to reach me at my email which can be found in the *contact* section.
+
+### Directory breakdown:
 * --> src
     * --> images
         * headshot.jpg
